@@ -4,7 +4,7 @@ This repository contains the source code for a real-time price tracker Android a
 
 ## 📸 Screenshots
 
-*(Optional: Add your light and dark theme screenshots here)*
+
 
 | Light Theme | Dark Theme |
 | :---: | :---: |

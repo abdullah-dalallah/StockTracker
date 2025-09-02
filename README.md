@@ -38,7 +38,7 @@ The app is divided into four main layers:
 
 ## 🚀 How to Run the Project
 
-1.  Clone the repository: `git clone https://github.com/your-username/your-repository-name.git` *(Remember to replace this with your actual URL)*
+1.  Clone the repository: `git clone https://github.com/abdullah-dalallah/StockTracker.git` 
 2.  Open the project in the latest stable version of Android Studio.
 3.  Let Gradle sync and build the project.
 4.  Run the `app` configuration on an emulator or a physical device.
